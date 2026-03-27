@@ -19,13 +19,6 @@
     "deploy": true
   },
   {
-    "name": "Stability of systems",
-    "short-name": "stability-of-systems",
-    "repo": "https://github.com/virtual-labs/exp-stability-of-systems-iiith",
-    "tag": "v1.0.0",
-    "deploy": true
-  },
-  {
     "name": "LTI system analysis: impulse response and step response",
     "short-name": "impulse-and-response",
     "repo": "https://github.com/virtual-labs/exp-impulse-and-response-iiith",
@@ -64,6 +57,13 @@
     "name": "Z-transform (discrete-time signals & systems)",
     "short-name": "z-transform",
     "repo": "https://github.com/virtual-labs/exp-z-transform-iiith",
+    "tag": "v1.0.0",
+    "deploy": true
+  },
+     {
+    "name": "Stability of systems",
+    "short-name": "stability-of-systems",
+    "repo": "https://github.com/virtual-labs/exp-stability-of-systems-iiith",
     "tag": "v1.0.0",
     "deploy": true
   }
